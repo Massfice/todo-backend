@@ -12,6 +12,7 @@ It uses:
 - Eloquent
 - [My own Auth Server](https://github.com/Massfice/meet-your-elf-auth-diploma)
 - Composer
+- Git
 
 ## Solution
 
@@ -58,4 +59,5 @@ I'm Adrian Larysz. To run this project locally:
 - `composer install`
 - `php artisan migrate`
 - `php artisan serve`
+
 That's all. Thank you.
