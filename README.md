@@ -11,6 +11,7 @@ It uses:
 - Laravel 5
 - Eloquent
 - [My own Auth Server](https://github.com/Massfice/meet-your-elf-auth-diploma)
+- Composer
 
 ## Solution
 
@@ -54,6 +55,7 @@ It's configured to support local development.
 ## End Words
 I'm Adrian Larysz. To run this project locally:
 - `git clone https://github.com/Massfice/todo-backend`
+- `composer install`
 - `php artisan migrate`
 - `php artisan serve`
 That's all. Thank you.
